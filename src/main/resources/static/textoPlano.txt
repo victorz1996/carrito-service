@@ -1,0 +1,8 @@
+esta es una descripcion de prueba,true,20000,25000,26.02,micasa
+hola,false,20000,25000,26,micasa
+dsadsadsad,true,20000,25000,26,micasa
+este es,false,20000,25000,26,micasa
+prueba,true,20000,25000,26,micasa
+this is,false,20000,25000,26,micasa
+desc,true,20000,25000,26.08,micasa
+sdsakdlsa,false,20000,25000,26.06,micasa

@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/carrito
+    driverClassName: org.postgresql.Driver
+    username: postgres
+    password: admin
+    data: classpath:import.sql
+    initialization-mode: always
+
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+server:
+  port: 8082
+
+security:
+  jwt:
+    secret-key: mysecretkey
